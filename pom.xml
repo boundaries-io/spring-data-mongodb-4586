@@ -98,6 +98,14 @@
 	    <groupId>com.fasterxml.jackson.core</groupId>
 	    <artifactId>jackson-databind</artifactId>
 	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/de.grundid.opendatalab/geojson-jackson -->
+	<dependency>
+	    <groupId>de.grundid.opendatalab</groupId>
+	    <artifactId>geojson-jackson</artifactId>
+	    <version>1.14</version>
+	</dependency>
+
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-mongodb</artifactId>
